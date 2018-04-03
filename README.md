@@ -81,7 +81,7 @@ The rest of the commands must be asign to the correct fields of the GUI:
 * `TLS Cipher` **NONE**
 * `LZO Compression` **YES**
 * `NAT` and `Firewall protection` **ENABLE**
-* `IP Address` | `Subnet Mask` | `Tunnel UDP Fragment` *left blank*
+* `IP Address`,  `Subnet Mask`, `Tunnel UDP Fragment` *left blank*
 * `Tunnel MTU setting` **1500**
 * `Tunnel UDP MSS-Fix` **ENABLE**
 
